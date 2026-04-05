@@ -14,4 +14,19 @@ Berbicara relasi antar sains dan agama sering kali memancing perdebatan yang men
 
 Terkait pertanyaan mengenai ranah agama dalam konteks diskursus sains, agama secara spesifik membahas dan memberikan otoritas pada makna eksistensial, pembentukan etika, dan nilai moralitas manusia. Ketika sains berusaha membongkar mekanisme material alam semesta, agama hadir untuk mengisi ruang yang tidak bisa dijangkau oleh metode ilmiah. Agama dan sains hanya akan berkonflik jika agama mencoba memberikan klaim faktual atas sains, atau sebaliknya sains mencoba mendikte keputusan etis-moral masyarakat.
 
-## Argumentasi Ilmiah: 
+
+## Argumen Ilmiah: Kenapa Agama Membahas Moralitas? 
+
+Saya sanagt setuju dengan tesis pemisahan ranah ini. Berikut adalah argumen saintifik dan sosiologis kenapa agama mengambil otoritas moral:
+
+### Argumen Sosiologis:
+
+Kenapa agama mengurus moral? Secara sosiologis, agama tidak dirancang sebagai jurnal metodologi ilmiah, melainkan sebagai sistem orientasi. Menurut Emile Durkheim, agama memegang peranan untuk menciptakan kesadaran kolektif yang esensial dalan menjaga solidaritas sosial dan kontrol moral di masyarakat. Tanpa doktrin moral agama, tatanan sosial di era pra-modern akan kolaps karena ketiadaan instrumen pengikat nilai
+  - Bukti/Sumber: Ahsan et al. (2023). "Peran Agama Sebagai Sarana Komunikasi Dalam Membangun Solidaritas Sosial: Perspektif Emile Durkheim." E-Journal IAIN Manado / Jurnal Ahsan, Halaman 12 & 82.
+
+### Argumen Filosifis Evolusioner (NOMA): 
+
+Sebagai landasan teoritis untuk mempertahankan tesis independensi sains dan agama, argumen ini bersandar pada gagasan ahli paleontologi Stephen Jay Gould mengenai Non-Overlapping Magisteria (NOMA). Gould secara tajam memetakan bahwa sains dan agama beroprasi pada dua yurisdiksi yang secara kategoris berbeda dan tidak saling teumpang tindih. Sains memegang ototritas mutlak atas inkuiri empiris-bertugas menjelaskan anatomi alam semesta beserta fakta materialnya. Di sisi lain, otoritas agama terletak secara ekslusif pada ranah nilai moral dan pencarian makna absolut (ultimate meaning). Berpijak pada logika ini, mendesak teks suci untuk memberikan penjabaran matematis terkait hkum gravitasi merupakan kecacatan logika, persis sama irelevannya dengan memaksa sebuah jurnal biologi molekuler untuk merumuskan batasan etis mengenai tidaknya praktik kloning pada manusia.
+
+### 
+
